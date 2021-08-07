@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 My Stats are :
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSilveraGabriel&show_icons=true&theme=vue-dark)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSilveraGabriel&show_icons=true&theme=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveraGabriel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
