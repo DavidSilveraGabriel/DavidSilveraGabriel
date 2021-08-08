@@ -13,7 +13,7 @@ class David:
               'web': ['HTML', 'CSS', 'JavaScript', 'ReactJS',
                       'Boostrap', 'chartjs', 'Django', 'NodeJS',],
               'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL','GraphQL'],
-              'architecture' = ['MVC', 'REST'],
+              'architecture': ['MVC', 'REST'],
               'tools': ['GIT', 'GitHub', 'VSCode', 'Jupyter Notebook', 'anaconda'],
               'datascience': ['python', 'pandas', 'matplotlib', 'seaborn',
                               'numpy', 'sklearn', 'pytorch', 'tensorflow']
