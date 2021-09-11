@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+
+### I'm David, take a look at my class  
+
 ```python
 class David:
 
