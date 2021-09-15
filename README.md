@@ -34,3 +34,12 @@ if __name__ == '__main__':
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidSilveraGabriel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveraGabriel&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+<a href="/donate">DONATE</a>
+</div>
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
+<a href="/blog">VIEW THE BLOG</a>
+</div>
