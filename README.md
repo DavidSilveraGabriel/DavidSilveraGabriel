@@ -8,7 +8,7 @@ class David:
       def __init__(self):
           self.name = 'David'
           self.lastname = 'Silvera'
-          self.level = 22
+          self.level = 23
           self.web = 'https://devidblog.netlify.app/'
           self.twitter = 'https://twitter.com/David_Silvera21'
           self.instagram = 'https://www.instagram.com/davidsilverag/'
