@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-### I'm David, take a look at my class  
+### I'm David, a Data Scientist Self-taught developer with 2 years of expertise in ML,
+results-oriented with CRISP-DM methodology, worked in projects related to health, computer vision and education
+  
 
 ```python
 class David:
