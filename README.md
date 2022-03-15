@@ -6,7 +6,7 @@
 class David:
 
       def __init__(self):
-          self.name = 'David'
+          self.names = ['David', 'Gabriel']
           self.lastname = 'Silvera'
           self.level = 23
           self.web = 'https://devidblog.netlify.app/'
@@ -17,7 +17,7 @@ class David:
                       'Boostrap', 'chartjs', 'Django', 'NodeJS',],
               'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL','GraphQL'],
               'architecture': ['MVC', 'REST'],
-              'tools': ['GIT', 'GitHub', 'VSCode', 'Jupyter Notebook', 'anaconda'],
+              'tools': ['GIT', 'GitHub', 'VSCode', 'Jupyter Notebook', 'anaconda','colab'],
               'datascience': ['python', 'pandas', 'matplotlib', 'seaborn',
                               'numpy', 'sklearn', 'pytorch', 'tensorflow']
           }
