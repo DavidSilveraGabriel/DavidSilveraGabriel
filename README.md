@@ -12,7 +12,7 @@ class David:
           self.names = ['David', 'Gabriel']
           self.lastname = 'Silvera'
           self.level = 23
-          self.web = 'https://devidblog.netlify.app/'
+          self.github = 'https://github.com/DavidSilveraGabriel'
           self.twitter = 'https://twitter.com/David_Silvera21'
           self.instagram = 'https://www.instagram.com/davidsilverag/'
           self.code = {
