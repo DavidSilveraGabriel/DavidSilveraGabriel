@@ -2,7 +2,7 @@
 
 ### I'm David.
 A Data Scientist Self-taught developer with 2 years of expertise in ML,
-results-oriented with CRISP-DM methodology, worked in projects related to health, computer vision and education, actually working as a tutor
+results-oriented with CRISP-DM methodology, worked in projects related to health, computer vision and education, actually working as a tutor at Coderhouse
   
 
 ```python
