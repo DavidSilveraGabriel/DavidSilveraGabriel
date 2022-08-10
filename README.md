@@ -17,8 +17,8 @@ class David:
               'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL','GraphQL'],
               'architecture': ['MVC', 'REST'],
               'tools': ['GIT', 'GitHub', 'VSCode', 'Jupyter Notebook', 'Anaconda','Colab'],
-              'datascience': ['python', 'pandas', 'matplotlib', 'seaborn',
-                              'numpy', 'sklearn', 'pytorch', 'tensorflow', 'plotly']
+              'datascience': ['Python', 'Pandas', 'Matplotlib', 'Seaborn',
+                              'Numpy', 'Sklearn', 'Pytorch', 'Tensorflow', 'Plotly']
           }
           
 
