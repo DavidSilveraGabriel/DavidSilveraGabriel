@@ -18,7 +18,7 @@ class David:
               'architecture': ['MVC', 'REST'],
               'tools': ['GIT', 'GitHub', 'VSCode', 'Jupyter Notebook', 'anaconda','colab'],
               'datascience': ['python', 'pandas', 'matplotlib', 'seaborn',
-                              'numpy', 'sklearn', 'pytorch', 'tensorflow']
+                              'numpy', 'sklearn', 'pytorch', 'tensorflow', 'plotly']
           }
           
 
