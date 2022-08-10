@@ -13,10 +13,10 @@ class David:
           self.instagram = 'https://www.instagram.com/davidsilverag/'
           self.code = {
               'web': ['HTML', 'CSS', 'JavaScript', 'ReactJS',
-                      'Boostrap', 'chartjs', 'Django', 'NodeJS',],
+                      'Boostrap', 'ChartJS', 'Django', 'NodeJS',],
               'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL','GraphQL'],
               'architecture': ['MVC', 'REST'],
-              'tools': ['GIT', 'GitHub', 'VSCode', 'Jupyter Notebook', 'anaconda','colab'],
+              'tools': ['GIT', 'GitHub', 'VSCode', 'Jupyter Notebook', 'Anaconda','Colab'],
               'datascience': ['python', 'pandas', 'matplotlib', 'seaborn',
                               'numpy', 'sklearn', 'pytorch', 'tensorflow', 'plotly']
           }
