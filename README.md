@@ -35,8 +35,4 @@ if __name__ == '__main__':
       me = David()
 ```
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidSilveraGabriel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
- 
-</p>
 
