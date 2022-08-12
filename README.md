@@ -9,8 +9,7 @@ mouse estimating the pose of the head and eyes, and today in education as a tuto
 class David:
 
       def __init__(self):
-          self.names = ['David', 'Gabriel']
-          self.lastname = 'Silvera'
+          self.me = 'David Gabriel Silvera'
           self.level = 23
           self.github = 'https://github.com/DavidSilveraGabriel/'
           self.twitter = 'https://twitter.com/David_Silvera21/'
