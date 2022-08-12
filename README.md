@@ -1,4 +1,8 @@
 ## Hi there 👋
+
+I´m a Self-taught Data Scientist with +2 years of experience, worked as a freelancer in the areas of neuroscience, developing an 
+end-to-end EEG classifier for move an arduino robot with the mind in just 3 month, also computer vision, creating an app that controls the
+mouse estimating the pose of the head and eyes, and today in education as a tutor of data science
   
 
 ```python
