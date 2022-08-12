@@ -16,6 +16,7 @@ class David:
           self.twitter = 'https://twitter.com/David_Silvera21'
           self.instagram = 'https://www.instagram.com/davidsilverag/'
           self.medium = 'https://medium.com/@DofData'
+          self.hashnode = 'https://hashnode.com/@davidsilverag'
           self.code = {
               'web': ['HTML', 'CSS', 'JavaScript', 'ReactJS',
                       'Boostrap', 'ChartJS', 'Django', 'NodeJS',],
