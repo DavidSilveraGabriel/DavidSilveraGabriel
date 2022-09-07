@@ -7,6 +7,7 @@ class David:
 
       def __init__(self):
           self.me = 'David Gabriel Silvera'
+          self.title = 'Data Scientist'
           self.level = 23
           self.github = 'https://github.com/DavidSilveraGabriel/'
           self.twitter = 'https://twitter.com/David_Silvera21/'
