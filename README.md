@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Self-taught Data Scientist with +2 years of experience, i've worked as a freelancer in the areas of neuroscience, developing an end-to-end EEG classifier for move an arduino robot with the mind in just 3 month, too in computer vision, creating an app that controls the mouse estimating the pose of the head and eyes, and today working in education as a tutor of data science.
+"Welcome to my Github page! My name is David Gabriel Silvera, a self-taught Data Scientist with over two years of experience. I've had the opportunity to work in diverse areas such as neuroscience, computer vision, and education, where I developed projects ranging from an EEG classifier to control an arduino robot to an app that controls the mouse with the user's head and eye movements. Currently, I work as a tutor of data science, sharing my knowledge with others. With a passion for coding and a strong background in web development, database management, architecture, and data science, I am constantly seeking new challenges and opportunities to grow and improve. Feel free to connect with me, and check out my work and skills in the code section. Let's create something amazing together!"
 
 ```python
 class David:
