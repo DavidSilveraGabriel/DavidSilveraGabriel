@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-"Welcome to my Github page! My name is David Gabriel Silvera, a self-taught Data Scientist with over two years of experience. I've had the opportunity to work in diverse areas such as neuroscience, computer vision, and education, where I developed projects ranging from an EEG classifier to control an arduino robot to an app that controls the mouse with the user's head and eye movements. Currently, I work as a tutor of data science, sharing my knowledge with others. With a passion for coding and a strong background in web development, database management, architecture, and data science, I am constantly seeking new challenges and opportunities to grow and improve. Feel free to connect with me, and check out my work and skills in the code section. Let's create something amazing together!"
+Welcome to my Github page! I'm David Gabriel Silvera, an adept Data Scientist with a rich journey spanning over two years. Within this time, I've immersed myself in a spectrum of domains including neuroscience, computer vision, and education, each fostering my expertise. My project portfolio encompasses diverse creations, ranging from an EEG classifier for Arduino-powered robotics to an ingenious application that manipulates the cursor via head and eye movements.
+
+My ongoing role as a data science tutor allows me to share and amplify my knowledge, a venture I deeply cherish. Marrying my coding fervor with a robust foundation in web development, database management, architecture, and data science, I am perpetually drawn to novel challenges that fuel my growth.
+
+Let's forge a connection and explore the remarkable synergy we can create. Don't hesitate to engage with me and delve into my accomplishments and proficiencies showcased in the code section below.
+
+Together, let's embark on a journey of innovation and excellence!
 
 ```python
 class David:
