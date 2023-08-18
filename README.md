@@ -6,7 +6,6 @@ My ongoing role as a data science tutor allows me to share and amplify my knowle
 
 Let's forge a connection and explore the remarkable synergy we can create. Don't hesitate to engage with me and delve into my accomplishments and proficiencies showcased in the code section below.
 
-Together, let's embark on a journey of innovation and excellence!
 
 ```python
 class David:
