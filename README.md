@@ -89,14 +89,3 @@ Soy un Científico de Datos y Entusiasta de la Inteligencia Artificial 🇦🇷 
 </p> -->
 
 ---
-
-<p align="center">
-  <em>"Mi misión: Ayudar a negocios, emprendedores y profesionales a sacar el máximo provecho de la revolución de la IA."</em>
-</p>
-
-<span style="color:#2E8B57">
-<pre align="center">
-  ^
- /|/ |  /|-----
-</pre>
-</span>
